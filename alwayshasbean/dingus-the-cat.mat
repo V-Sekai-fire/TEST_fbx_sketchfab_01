@@ -1,0 +1,23 @@
+version 2
+require all
+
+material "dingus"
+    shader_type blender_phong
+
+    fbx.ambient_color 0.05 0.05 0.05
+    fbx.diffuse_color 0.8 0.8 0.8
+    fbx.specular_color 0.8 0.8 0.8
+    fbx.specular_exponent 25.0
+    
+    fbx.diffuse_color.texture "F:\\images\\dingus_nowhiskers.jpg"
+
+material "whiskers"
+    shader_type blender_phong
+
+    fbx.ambient_color 0.05 0.05 0.05
+    fbx.diffuse_color 0.8 0.8 0.8
+    fbx.specular_color 0.8 0.8 0.8
+    fbx.specular_exponent 25.0
+
+    fbx.diffuse_color.texture "F:\\images\\dingus_whiskers.tga"
+    fbx.transparency_factor.texture "F:\\images\\dingus_whiskers.tga"

@@ -1,0 +1,40 @@
+newmtl bridge_destroyedSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.18 0.18 0.18
+Ns 98.00
+newmtl natureSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phantom_bridgeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.79 0.42 0.33
+Ni 1.00
+Ks 0.11 0.31 0.36
+Ns 87.70
+newmtl terrainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.21 0.21 0.21
+Ns 98.00
+newmtl waterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.74 0.74 0.74
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 21.32

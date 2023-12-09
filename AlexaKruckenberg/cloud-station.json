@@ -1,0 +1,10 @@
+{
+    "title": "Cloud Station",
+    "author": "Alexa Kruckenberg",
+    "url": "https://sketchfab.com/3d-models/cloud-station-26f81b24d83441ba88c7e80a52adbaaf",
+    "license": "CC BY 4.0",
+    "features": ["inherit-mode"],
+    "options": {
+        "index-error-handling": "no-index"
+    }
+}

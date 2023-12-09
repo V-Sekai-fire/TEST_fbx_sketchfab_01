@@ -1,0 +1,32 @@
+newmtl ASPHALT_old_01SG
+illum 4
+Kd 0.33 0.31 0.26
+Ka 0.33 0.31 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl FENCE_DEFAULT005SG
+illum 4
+Kd 0.15 0.10 0.10
+Ka 0.15 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 6.00
+newmtl WALL_DEFAULT006SG
+illum 4
+Kd 0.25 0.25 0.25
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 6.00
+newmtl WATER002SG
+illum 4
+Kd 0.01 0.29 0.47
+Ka 0.01 0.29 0.47
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

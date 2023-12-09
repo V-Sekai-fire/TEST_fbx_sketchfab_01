@@ -1,0 +1,96 @@
+newmtl AniPartSG
+illum 4
+Kd 0.46 0.46 0.46
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 62.00
+newmtl AniPartSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl AniPartSG2
+illum 4
+Kd 0.46 0.46 0.46
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 62.00
+newmtl AniPartSG3
+illum 4
+Kd 0.15 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.01 0.00
+Ns 98.00
+newmtl AniPartSG4
+illum 4
+Kd 0.46 0.46 0.46
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 62.00
+newmtl AniPartSG5
+illum 4
+Kd 0.46 0.46 0.46
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 62.00
+newmtl AniPartSG6
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 23.00
+newmtl AniPartSG7
+illum 4
+Kd 0.15 0.03 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.01 0.00
+Ns 98.00
+newmtl AniPartSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl AniPartSG9
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.03 0.03
+Ns 98.00
+newmtl AniPartSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.23 0.21
+Ns 98.00
+newmtl AniPartSG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.24 0.20
+Ns 98.00

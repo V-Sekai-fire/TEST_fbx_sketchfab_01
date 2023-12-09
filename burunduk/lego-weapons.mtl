@@ -1,0 +1,64 @@
+newmtl Circle033SG
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Circle034SG
+illum 4
+Kd 0.88 0.63 0.00
+Ka 0.88 0.63 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Circle037SG
+illum 4
+Kd 0.03 0.40 0.78
+Ka 0.03 0.40 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 1.73
+newmtl Line1372SG
+illum 4
+Kd 0.49 0.18 0.03
+Ka 0.49 0.18 0.03
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl Object01SG
+illum 4
+Kd 0.05 0.14 0.18
+Ka 0.05 0.14 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 1.48
+newmtl Part_5SG
+illum 4
+Kd 0.37 0.06 0.02
+Ka 0.37 0.06 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Part_6SG
+illum 4
+Kd 0.96 0.96 0.96
+Ka 0.96 0.96 0.96
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Part_3814d131FBXASC046022SG
+illum 4
+Kd 0.01 0.11 0.18
+Ka 0.01 0.11 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

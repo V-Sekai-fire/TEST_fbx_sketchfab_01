@@ -1,0 +1,40 @@
+newmtl ASPHALT001SG
+illum 4
+Kd 0.11 0.15 0.22
+Ka 0.11 0.15 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl EARTH001SG
+illum 4
+Kd 0.02 0.11 0.06
+Ka 0.02 0.11 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ENTRANCE_DEFAULT001SG
+illum 4
+Kd 0.33 0.31 0.26
+Ka 0.33 0.31 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl RAIL_BALLAST_DEFAULT001SG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.08 0.08 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl WATER001SG
+illum 4
+Kd 0.01 0.29 0.47
+Ka 0.01 0.29 0.47
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

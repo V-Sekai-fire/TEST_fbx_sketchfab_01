@@ -1,0 +1,139 @@
+version 2
+require all
+
+material "BG_Effect"
+    shader_type arnold_standard_surface
+
+    pbr.normal_map 1.0 1.0 1.0
+    pbr.base_factor 0.8
+    pbr.base_color 0 0 0
+    pbr.diffuse_roughness 0
+    pbr.specular_factor 0
+    pbr.specular_color 1 1 1
+    pbr.roughness 0.2
+    pbr.specular_ior 1.5
+    pbr.specular_anisotropy 0
+    pbr.specular_rotation 0
+    pbr.metalness 0.0
+    pbr.transmission_factor 0
+    pbr.transmission_color 1 1 1
+    pbr.transmission_depth 0
+    pbr.transmission_scatter 0 0 0
+    pbr.transmission_scatter_anisotropy 0
+    pbr.transmission_dispersion 0
+    pbr.transmission_extra_roughness 0
+    pbr.subsurface_factor 0
+    pbr.subsurface_color 1 1 1
+    pbr.subsurface_radius 1 1 1
+    pbr.subsurface_scale 1
+    pbr.subsurface_anisotropy 0
+    pbr.sheen_factor 0
+    pbr.sheen_color 1 1 1
+    pbr.sheen_roughness 0.3
+    pbr.tangent_map 0 0 0
+    pbr.coat_factor 0
+    pbr.coat_color 1 1 1
+    pbr.coat_roughness 0.1
+    pbr.coat_ior 1.5
+    pbr.coat_anisotropy 0
+    pbr.coat_rotation 0
+    pbr.coat_normal 0 0 0
+    pbr.thin_film_thickness 0
+    pbr.thin_film_ior 1.5
+    pbr.emission_factor 0
+    pbr.emission_color 1 1 1
+    pbr.opacity 0 0 0
+
+    pbr.base_color.texture content "BG_Effect.jpg"
+    pbr.opacity.texture content "BG_Effect_Opacity.jpg"
+
+material "Render_Magic"
+    shader_type arnold_standard_surface
+
+    pbr.normal_map 1.0 1.0 1.0
+    pbr.base_factor 0.8
+    pbr.base_color 0 0 0
+    pbr.diffuse_roughness 0
+    pbr.specular_factor 0
+    pbr.specular_color 1 1 1
+    pbr.roughness 0.2
+    pbr.specular_ior 1.5
+    pbr.specular_anisotropy 0
+    pbr.specular_rotation 0
+    pbr.metalness 0.0
+    pbr.transmission_factor 0
+    pbr.transmission_color 1 1 1
+    pbr.transmission_depth 0
+    pbr.transmission_scatter 0 0 0
+    pbr.transmission_scatter_anisotropy 0
+    pbr.transmission_dispersion 0
+    pbr.transmission_extra_roughness 0
+    pbr.subsurface_factor 0
+    pbr.subsurface_color 1 1 1
+    pbr.subsurface_radius 1 1 1
+    pbr.subsurface_scale 1
+    pbr.subsurface_anisotropy 0
+    pbr.sheen_factor 0
+    pbr.sheen_color 1 1 1
+    pbr.sheen_roughness 0.3
+    pbr.tangent_map 0 0 0
+    pbr.coat_factor 0
+    pbr.coat_color 1 1 1
+    pbr.coat_roughness 0.1
+    pbr.coat_ior 1.5
+    pbr.coat_anisotropy 0
+    pbr.coat_rotation 0
+    pbr.coat_normal 0 0 0
+    pbr.thin_film_thickness 0
+    pbr.thin_film_ior 1.5
+    pbr.emission_factor 10.0
+    pbr.emission_color 0 0 0
+    pbr.opacity 0 0 0
+
+    pbr.base_color.texture content "Magic_BC.jpg"
+    pbr.opacity.texture content "Magic_Opacity.jpg"
+
+material "Render_Text"
+    shader_type arnold_standard_surface
+
+    pbr.normal_map 1.0 1.0 1.0
+    pbr.base_factor 0.8
+    pbr.base_color 0 0 0
+    pbr.diffuse_roughness 0
+    pbr.specular_factor 0
+    pbr.specular_color 1 1 1
+    pbr.roughness 0.2
+    pbr.specular_ior 1.5
+    pbr.specular_anisotropy 0
+    pbr.specular_rotation 0
+    pbr.metalness 0.0
+    pbr.transmission_factor 0
+    pbr.transmission_color 1 1 1
+    pbr.transmission_depth 0
+    pbr.transmission_scatter 0 0 0
+    pbr.transmission_scatter_anisotropy 0
+    pbr.transmission_dispersion 0
+    pbr.transmission_extra_roughness 0
+    pbr.subsurface_factor 0
+    pbr.subsurface_color 1 1 1
+    pbr.subsurface_radius 1 1 1
+    pbr.subsurface_scale 1
+    pbr.subsurface_anisotropy 0
+    pbr.sheen_factor 0
+    pbr.sheen_color 1 1 1
+    pbr.sheen_roughness 0.3
+    pbr.tangent_map 0 0 0
+    pbr.coat_factor 0
+    pbr.coat_color 1 1 1
+    pbr.coat_roughness 0.1
+    pbr.coat_ior 1.5
+    pbr.coat_anisotropy 0
+    pbr.coat_rotation 0
+    pbr.coat_normal 0 0 0
+    pbr.thin_film_thickness 0
+    pbr.thin_film_ior 1.5
+    pbr.emission_factor 0
+    pbr.emission_color 1 1 1
+    pbr.opacity 1 1 1
+
+    pbr.base_color.texture content "Weapon_BC.jpg"
